@@ -4,14 +4,14 @@ Welcome to my implementation of Fuzzy-Logic, implemented by taking a basic examp
 - - - -
 
 ## Features 🔑
-*__Membership Functions__ : Implement a vareity of membership functions to capture liguistic variables and thier fuzzy-sets.
-*__Inference Engine__ : Implement inference as suggested in Sugeno Fuzzy-Model.
-*__Defuzzyfication__ : Implement defuzzification using mean of maximum to obtain crisp output.
-*__Rule Based System__ : Easily define and manipulate fuzzy rules to model intricate relationships between input and output variables.
+* __Membership Functions__ : Implement a vareity of membership functions to capture liguistic variables and thier fuzzy-sets.
+* __Inference Engine__ : Implement inference as suggested in Sugeno Fuzzy-Model.
+* __Defuzzyfication__ : Implement defuzzification using mean of maximum to obtain crisp output.
+* __Rule Based System__ : Easily define and manipulate fuzzy rules to model intricate relationships between input and output variables.
 
 ## Prerequisites 📚
 No specific prerequisites for following Program.
 
 ## Run 🏃
-*Clone repository on Local Device.
-*Run the following command for stored address of device : `python FuzzyLogic.py`
+* Clone repository on Local Device.
+* Run the following command for stored address of device : `python FuzzyLogic.py`
